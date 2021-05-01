@@ -1,0 +1,20 @@
+[
+	{
+		"Author": "Adam",
+		"Name": "Penumbra",
+		"Description": "Runtime mod loader and manager.",
+		"InternalName": "Penumbra",
+		"AssemblyVersion": "0.3.4.1",
+		"TestingAssemblyVersion": "0.3.4.1",
+		"RepoUrl": "https://github.com/xivdev/Penumbra",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 3,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 1,
+		"LastUpdate": 1618608320,
+		"DownloadLinkInstall": "https://github.com/xivdev/Penumbra/releases/download/0.3.4.1/Penumbra.zip",
+		"DownloadLinkTesting": "https://github.com/xivdev/Penumbra/releases/download/0.3.4.1/Penumbra.zip",
+		"DownloadLinkUpdate": "https://github.com/xivdev/Penumbra/releases/download/0.3.4.1/Penumbra.zip",
+	}
+]
